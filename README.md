@@ -1,5 +1,5 @@
 # WORLD CUP
-#### A football world cup website with HTML CSS & SCSS.
+#### A football world cup website with HTML and CSS.
 
 <br />
 
